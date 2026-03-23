@@ -1,0 +1,40 @@
+[
+  {
+    "_id": 1,
+    "product_name": "iPhone 15",
+    "category": "Electronics",
+    "price": 80000,
+    "brand": "Apple",
+    "specs": {
+      "warranty_years": 1,
+      "voltage": "220V",
+      "battery": "3500mAh"
+    },
+    "features": ["5G", "OLED Display", "Face ID"]
+  },
+  {
+    "_id": 2,
+    "product_name": "Men's T-Shirt",
+    "category": "Clothing",
+    "price": 1200,
+    "brand": "H&M",
+    "size_options": ["S", "M", "L", "XL"],
+    "material": "Cotton",
+    "colors": ["Black", "White", "Blue"]
+  },
+  {
+    "_id": 3,
+    "product_name": "Organic Milk",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-20",
+    "nutritional_info": {
+      "calories": 150,
+      "protein": "8g",
+      "fat": "5g"
+    },
+    "storage": "Refrigerated"
+  }
+]
+
